@@ -1,991 +1,1983 @@
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic60_1587130146742' AND b.topicId = 'L1513996235_topic58_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic60_1587130146742' AND b.topicId = 'L1513996235_topic61_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic62_1587130146742' AND b.topicId = 'L1513996235_topic58_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic62_1587130146742' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic63_1587130146742' AND b.topicId = 'L1513996235_topic58_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic64_1587130146742' AND b.topicId = 'L1513996235_topic62_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic64_1587130146742' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic65_1587130146742' AND b.topicId = 'L1513996235_topic62_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic65_1587130146742' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic66_1587130146742' AND b.topicId = 'L1513996235_topic58_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic66_1587130146742' AND b.topicId = 'L1513996235_topic67_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic68_1587130146743' AND b.topicId = 'L1513996235_topic66_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic68_1587130146743' AND b.topicId = 'L1513996235_topic69_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic70_1587130146743' AND b.topicId = 'L1513996235_topic71_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic70_1587130146743' AND b.topicId = 'L1513996235_topic67_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic71_1587130146743' AND b.topicId = 'L1513996235_topic66_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic71_1587130146743' AND b.topicId = 'L1513996235_topic67_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic72_1587130146743' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic72_1587130146743' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic73_1587130146743' AND b.topicId = 'L1513996235_topic75_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic73_1587130146743' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic75_1587130146743' AND b.topicId = 'L1513996235_topic66_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic75_1587130146743' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic76_1587130146743' AND b.topicId = 'L1513996235_topic75_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic76_1587130146743' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic77_1587130146743' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic77_1587130146743' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic84_1587130146743' AND b.topicId = 'L1513996235_topic63_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic85_1587130146743' AND b.topicId = 'L1513996235_topic63_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic85_1587130146743' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic87_1587130146743' AND b.topicId = 'L1513996235_topic85_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic87_1587130146743' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic88_1587130146743' AND b.topicId = 'L1513996235_topic60_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic88_1587130146743' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic89_1587130146743' AND b.topicId = 'L1513996235_topic60_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic89_1587130146743' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic90_1587130146743' AND b.topicId = 'L1513996235_topic60_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic90_1587130146743' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic91_1587130146744' AND b.topicId = 'L1513996235_topic88_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic91_1587130146744' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic93_1587130146744' AND b.topicId = 'L1513996235_topic66_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic93_1587130146744' AND b.topicId = 'L1513996235_topic94_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic95_1587130146744' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic95_1587130146744' AND b.topicId = 'L1513996235_topic96_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic95_1587130146744' AND b.topicId = 'L1513996235_topic97_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic98_1587130146744' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic98_1587130146744' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic99_1587130146744' AND b.topicId = 'L1513996235_topic71_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic99_1587130146744' AND b.topicId = 'L1513996235_topic67_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic100_1587130146744' AND b.topicId = 'L1513996235_topic85_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic100_1587130146744' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic101_1587130146744' AND b.topicId = 'L1513996235_topic85_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic101_1587130146744' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic102_1587130146744' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic102_1587130146744' AND b.topicId = 'L1513996235_topic103_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic105_1587130146744' AND b.topicId = 'L1513996235_topic89_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic105_1587130146744' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic106_1587130146744' AND b.topicId = 'L1513996235_topic105_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic106_1587130146744' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic107_1587130146744' AND b.topicId = 'L1513996235_topic105_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic107_1587130146744' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic109_1587130146744' AND b.topicId = 'L1513996235_topic105_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic109_1587130146744' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic110_1587130146744' AND b.topicId = 'L1513996235_topic88_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic110_1587130146744' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic111_1587130146744' AND b.topicId = 'L1513996235_topic110_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic111_1587130146744' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic112_1587130146744' AND b.topicId = 'L1513996235_topic110_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic112_1587130146744' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic113_1587130146744' AND b.topicId = 'L1513996235_topic110_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic113_1587130146744' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic114_1587130146744' AND b.topicId = 'L1513996235_topic110_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic114_1587130146744' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic115_1587130146744' AND b.topicId = 'L1513996235_topic110_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic115_1587130146744' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic116_1587130146744' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic116_1587130146744' AND b.topicId = 'L1513996235_topic89_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic117_1587130146745' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic117_1587130146745' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic118_1587130146745' AND b.topicId = 'L1513996235_topic119_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic118_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic119_1587130146745' AND b.topicId = 'L1513996235_topic88_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic119_1587130146745' AND b.topicId = 'L1513996235_topic103_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic120_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic120_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic121_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic121_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic122_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic122_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic123_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic123_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic124_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic124_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic125_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic125_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic126_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic126_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic127_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic127_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic128_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic128_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic129_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic129_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic130_1587130146745' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic130_1587130146745' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic131_1587130146745' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic131_1587130146745' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic132_1587130146745' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic132_1587130146745' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic133_1587130146745' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic133_1587130146745' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic134_1587130146745' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic134_1587130146745' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic135_1587130146745' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic135_1587130146745' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic136_1587130146745' AND b.topicId = 'L1513996235_topic137_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic136_1587130146745' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic137_1587130146745' AND b.topicId = 'L1513996235_topic75_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic137_1587130146745' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic138_1587130146745' AND b.topicId = 'L1513996235_topic137_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic138_1587130146745' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic139_1587130146746' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic139_1587130146746' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic140_1587130146746' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic140_1587130146746' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic141_1587130146746' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic141_1587130146746' AND b.topicId = 'L1513996235_topic89_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic142_1587130146746' AND b.topicId = 'L1513996235_topic131_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic143_1587130146746' AND b.topicId = 'L1513996235_topic131_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic144_1587130146746' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic144_1587130146746' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic145_1587130146746' AND b.topicId = 'L1513996235_topic62_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic145_1587130146746' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic147_1587130146746' AND b.topicId = 'L1513996235_topic146_1587130146746' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic148_1587130146746' AND b.topicId = 'L1513996235_topic146_1587130146746' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic149_1587130146746' AND b.topicId = 'L1513996235_topic66_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic149_1587130146746' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic151_1587130146746' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic151_1587130146746' AND b.topicId = 'L1513996235_topic103_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic152_1587130146746' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic152_1587130146746' AND b.topicId = 'L1513996235_topic103_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic152_1587130146746' AND b.topicId = 'L1513996235_topic97_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic153_1587130146746' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic153_1587130146746' AND b.topicId = 'L1513996235_topic103_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic154_1587130146746' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic154_1587130146746' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic155_1587130146746' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic155_1587130146746' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic156_1587130146746' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic156_1587130146746' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic157_1587130146746' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic157_1587130146746' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic158_1587130146746' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic158_1587130146746' AND b.topicId = 'L1513996235_topic97_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic159_1587130146746' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic159_1587130146746' AND b.topicId = 'L1513996235_topic97_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic160_1587130146746' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic160_1587130146746' AND b.topicId = 'L1513996235_topic97_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic161_1587130146747' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic161_1587130146747' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic162_1587130146747' AND b.topicId = 'L1513996235_topic84_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic162_1587130146747' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic162_1587130146747' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic163_1587130146747' AND b.topicId = 'L1513996235_topic84_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic163_1587130146747' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic163_1587130146747' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic164_1587130146747' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic164_1587130146747' AND b.topicId = 'L1513996235_topic103_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic175_1587130146747' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic175_1587130146747' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic177_1587130146747' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic177_1587130146747' AND b.topicId = 'L1513996235_topic96_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic178_1587130146747' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic178_1587130146747' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic179_1587130146747' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic179_1587130146747' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic180_1587130146747' AND b.topicId = 'L1513996235_topic179_1587130146747' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic181_1587130146747' AND b.topicId = 'L1513996235_topic179_1587130146747' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic182_1587130146747' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic182_1587130146747' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic183_1587130146747' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic183_1587130146747' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic184_1587130146747' AND b.topicId = 'L1513996235_topic89_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic184_1587130146747' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic189_1587130146748' AND b.topicId = 'L1513996235_topic84_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic189_1587130146748' AND b.topicId = 'L1513996235_topic190_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic189_1587130146748' AND b.topicId = 'L1513996235_topic191_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic198_1587130146748' AND b.topicId = 'L1513996235_topic199_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic199_1587130146748' AND b.topicId = 'L1513996235_topic75_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic200_1587130146748' AND b.topicId = 'L1513996235_topic66_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic201_1587130146748' AND b.topicId = 'L1513996235_topic66_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic201_1587130146748' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic202_1587130146748' AND b.topicId = 'L1513996235_topic189_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic202_1587130146748' AND b.topicId = 'L1513996235_topic190_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic203_1587130146748' AND b.topicId = 'L1513996235_topic189_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic203_1587130146748' AND b.topicId = 'L1513996235_topic190_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic207_1587130146748' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic207_1587130146748' AND b.topicId = 'L1513996235_topic97_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic208_1587130146748' AND b.topicId = 'L1513996235_topic204_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic209_1587130146748' AND b.topicId = 'L1513996235_topic204_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic211_1587130146748' AND b.topicId = 'L1513996235_topic189_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic211_1587130146748' AND b.topicId = 'L1513996235_topic190_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic217_1587130146748' AND b.topicId = 'L1513996235_topic58_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic217_1587130146748' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic218_1587130146748' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic218_1587130146748' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic219_1587130146749' AND b.topicId = 'L1513996235_topic218_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic227_1587130146749' AND b.topicId = 'L1513996235_topic134_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic228_1587130146749' AND b.topicId = 'L1513996235_topic134_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic231_1587130146749' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic231_1587130146749' AND b.topicId = 'L1513996235_topic96_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic237_1587130146749' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic237_1587130146749' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic243_1587130146749' AND b.topicId = 'L1513996235_topic218_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic244_1587130146749' AND b.topicId = 'L1513996235_topic243_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic245_1587130146749' AND b.topicId = 'L1513996235_topic243_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic246_1587130146749' AND b.topicId = 'L1513996235_topic156_1587130146746' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic247_1587130146749' AND b.topicId = 'L1513996235_topic156_1587130146746' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic249_1587130146749' AND b.topicId = 'L1513996235_topic211_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic249_1587130146749' AND b.topicId = 'L1513996235_topic190_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic250_1587130146749' AND b.topicId = 'L1513996235_topic211_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic250_1587130146749' AND b.topicId = 'L1513996235_topic190_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic251_1587130146749' AND b.topicId = 'L1513996235_topic211_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic251_1587130146749' AND b.topicId = 'L1513996235_topic190_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic252_1587130146750' AND b.topicId = 'L1513996235_topic211_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic252_1587130146750' AND b.topicId = 'L1513996235_topic190_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic256_1587130146750' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic256_1587130146750' AND b.topicId = 'L1513996235_topic96_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic256_1587130146750' AND b.topicId = 'L1513996235_topic61_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic260_1587130146750' AND b.topicId = 'L1513996235_topic105_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic260_1587130146750' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic263_1587130146750' AND b.topicId = 'L1513996235_topic118_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic263_1587130146750' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic264_1587130146750' AND b.topicId = 'L1513996235_topic72_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic265_1587130146750' AND b.topicId = 'L1513996235_topic266_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic265_1587130146750' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic266_1587130146750' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic266_1587130146750' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic267_1587130146750' AND b.topicId = 'L1513996235_topic201_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic267_1587130146750' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic271_1587130146750' AND b.topicId = 'L1513996235_topic60_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic271_1587130146750' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic275_1587130146750' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic275_1587130146750' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic278_1587130146750' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic278_1587130146750' AND b.topicId = 'L1513996235_topic97_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic282_1587130146750' AND b.topicId = 'L1513996235_topic68_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic282_1587130146750' AND b.topicId = 'L1513996235_topic69_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic283_1587130146750' AND b.topicId = 'L1513996235_topic68_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic283_1587130146750' AND b.topicId = 'L1513996235_topic69_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic284_1587130146750' AND b.topicId = 'L1513996235_topic71_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic284_1587130146750' AND b.topicId = 'L1513996235_topic67_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic285_1587130146750' AND b.topicId = 'L1513996235_topic73_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic285_1587130146750' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic286_1587130146751' AND b.topicId = 'L1513996235_topic200_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic286_1587130146751' AND b.topicId = 'L1513996235_topic287_1587130146751' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic288_1587130146751' AND b.topicId = 'L1513996235_topic200_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic288_1587130146751' AND b.topicId = 'L1513996235_topic289_1587130146751' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic290_1587130146751' AND b.topicId = 'L1513996235_topic200_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic290_1587130146751' AND b.topicId = 'L1513996235_topic287_1587130146751' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic291_1587130146751' AND b.topicId = 'L1513996235_topic266_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic291_1587130146751' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic292_1587130146751' AND b.topicId = 'L1513996235_topic218_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic293_1587130146751' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic293_1587130146751' AND b.topicId = 'L1513996235_topic96_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic293_1587130146751' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic294_1587130146751' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic294_1587130146751' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic295_1587130146751' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic295_1587130146751' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic296_1587130146751' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic296_1587130146751' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic402_1587130146753' AND b.topicId = 'L1513996235_topic245_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic403_1587130146754' AND b.topicId = 'L1513996235_topic245_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic404_1587130146754' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic404_1587130146754' AND b.topicId = 'L1513996235_topic405_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic405_1587130146754' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic405_1587130146754' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic406_1587130146754' AND b.topicId = 'L1513996235_topic58_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic406_1587130146754' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic407_1587130146754' AND b.topicId = 'L1513996235_topic406_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic407_1587130146754' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic408_1587130146754' AND b.topicId = 'L1513996235_topic409_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic408_1587130146754' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic409_1587130146754' AND b.topicId = 'L1513996235_topic407_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic409_1587130146754' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic411_1587130146754' AND b.topicId = 'L1513996235_topic407_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic411_1587130146754' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic412_1587130146754' AND b.topicId = 'L1513996235_topic409_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic412_1587130146754' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic413_1587130146754' AND b.topicId = 'L1513996235_topic409_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic413_1587130146754' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic414_1587130146754' AND b.topicId = 'L1513996235_topic407_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic414_1587130146754' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic415_1587130146754' AND b.topicId = 'L1513996235_topic405_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic415_1587130146754' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic416_1587130146754' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic416_1587130146754' AND b.topicId = 'L1513996235_topic417_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic417_1587130146754' AND b.topicId = 'L1513996235_topic406_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic417_1587130146754' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic418_1587130146754' AND b.topicId = 'L1513996235_topic405_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic418_1587130146754' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic419_1587130146754' AND b.topicId = 'L1513996235_topic88_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic419_1587130146754' AND b.topicId = 'L1513996235_topic92_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic420_1587130146754' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic420_1587130146754' AND b.topicId = 'L1513996235_topic407_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic421_1587130146754' AND b.topicId = 'L1513996235_topic409_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic421_1587130146754' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic422_1587130146754' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic422_1587130146754' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic423_1587130146754' AND b.topicId = 'L1513996235_topic58_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic423_1587130146754' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic424_1587130146754' AND b.topicId = 'L1513996235_topic146_1587130146746' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic425_1587130146754' AND b.topicId = 'L1513996235_topic60_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic425_1587130146754' AND b.topicId = 'L1513996235_topic61_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic426_1587130146754' AND b.topicId = 'L1513996235_topic407_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic426_1587130146754' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic427_1587130146754' AND b.topicId = 'L1513996235_topic418_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic427_1587130146754' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic428_1587130146755' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic428_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic429_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic429_1587130146755' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic430_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic431_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic432_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic433_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic434_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic435_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic436_1587130146755' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic436_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic437_1587130146755' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic437_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic438_1587130146755' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic438_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic439_1587130146755' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic439_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic440_1587130146755' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic440_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic441_1587130146755' AND b.topicId = 'L1513996235_topic428_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic442_1587130146755' AND b.topicId = 'L1513996235_topic428_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic443_1587130146755' AND b.topicId = 'L1513996235_topic161_1587130146747' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic444_1587130146755' AND b.topicId = 'L1513996235_topic443_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic445_1587130146755' AND b.topicId = 'L1513996235_topic443_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic446_1587130146755' AND b.topicId = 'L1513996235_topic447_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic447_1587130146755' AND b.topicId = 'L1513996235_topic58_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic448_1587130146755' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic448_1587130146755' AND b.topicId = 'L1513996235_topic234_1587130146749' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic449_1587130146755' AND b.topicId = 'L1513996235_topic448_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic450_1587130146755' AND b.topicId = 'L1513996235_topic448_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic451_1587130146755' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic451_1587130146755' AND b.topicId = 'L1513996235_topic96_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic451_1587130146755' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic452_1587130146756' AND b.topicId = 'L1513996235_topic75_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic453_1587130146756' AND b.topicId = 'L1513996235_topic256_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic454_1587130146756' AND b.topicId = 'L1513996235_topic95_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic454_1587130146756' AND b.topicId = 'L1513996235_topic96_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic455_1587130146756' AND b.topicId = 'L1513996235_topic95_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic455_1587130146756' AND b.topicId = 'L1513996235_topic96_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic455_1587130146756' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic456_1587130146756' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic456_1587130146756' AND b.topicId = 'L1513996235_topic405_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic457_1587130146756' AND b.topicId = 'L1513996235_topic417_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic457_1587130146756' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic458_1587130146756' AND b.topicId = 'L1513996235_topic417_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic458_1587130146756' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic459_1587130146756' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic459_1587130146756' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic460_1587130146756' AND b.topicId = 'L1513996235_topic89_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic460_1587130146756' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic461_1587130146756' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic461_1587130146756' AND b.topicId = 'L1513996235_topic86_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic464_1587130146756' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic464_1587130146756' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic466_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic466_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic467_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic467_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic468_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic468_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic469_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic469_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic470_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic470_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic471_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic471_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic472_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic472_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic473_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic473_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic474_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic474_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic475_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic475_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic476_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic476_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic477_1587130146756' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic477_1587130146756' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic478_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic478_1587130146757' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic479_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic480_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic480_1587130146757' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic481_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic481_1587130146757' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic482_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic482_1587130146757' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic483_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic483_1587130146757' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic484_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic484_1587130146757' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic485_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic485_1587130146757' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic486_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic486_1587130146757' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic487_1587130146757' AND b.topicId = 'L1513996235_topic271_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic487_1587130146757' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic488_1587130146757' AND b.topicId = 'L1513996235_topic201_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic488_1587130146757' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic489_1587130146757' AND b.topicId = 'L1513996235_topic201_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic489_1587130146757' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic490_1587130146757' AND b.topicId = 'L1513996235_topic201_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic490_1587130146757' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic514_1587130146758' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic514_1587130146758' AND b.topicId = 'L1513996235_topic515_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic515_1587130146758' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic515_1587130146758' AND b.topicId = 'L1513996235_topic516_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic516_1587130146758' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic516_1587130146758' AND b.topicId = 'L1513996235_topic272_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic517_1587130146758' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic517_1587130146758' AND b.topicId = 'L1513996235_topic516_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic518_1587130146758' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic526_1587130146758' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic526_1587130146758' AND b.topicId = 'L1513996235_topic516_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic527_1587130146758' AND b.topicId = 'L1513996235_topic518_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic528_1587130146758' AND b.topicId = 'L1513996235_topic518_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic529_1587130146758' AND b.topicId = 'L1513996235_topic266_1587130146750' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic529_1587130146758' AND b.topicId = 'L1513996235_topic59_1587130146742' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic534_1587130146758' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic540_1587130146758' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic541_1587130146758' AND b.topicId = 'L1513996235_topic447_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic542_1587130146758' AND b.topicId = 'L1513996235_topic84_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic543_1587130146758' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic544_1587130146758' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic545_1587130146758' AND b.topicId = 'L1513996235_topic447_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic546_1587130146758' AND b.topicId = 'L1513996235_topic87_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic546_1587130146758' AND b.topicId = 'L1513996235_topic96_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic546_1587130146758' AND b.topicId = 'L1513996235_topic447_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic551_1587130146759' AND b.topicId = 'L1513996235_topic200_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic551_1587130146759' AND b.topicId = 'L1513996235_topic289_1587130146751' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic555_1587130146759' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic555_1587130146759' AND b.topicId = 'L1513996235_topic556_1587130146759' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic555_1587130146759' AND b.topicId = 'L1513996235_topic103_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic575_1587130146759' AND b.topicId = 'L1513996235_topic417_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic580_1587130146759' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic581_1587130146759' AND b.topicId = 'L1513996235_topic119_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic582_1587130146759' AND b.topicId = 'L1513996235_topic119_1587130146745' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic584_1587130146759' AND b.topicId = 'L1513996235_topic580_1587130146759' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic585_1587130146759' AND b.topicId = 'L1513996235_topic447_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic590_1587130146760' AND b.topicId = 'L1513996235_topic515_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic591_1587130146760' AND b.topicId = 'L1513996235_topic515_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic592_1587130146760' AND b.topicId = 'L1513996235_topic201_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic592_1587130146760' AND b.topicId = 'L1513996235_topic74_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic593_1587130146760' AND b.topicId = 'L1513996235_topic407_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic594_1587130146760' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic596_1587130146760' AND b.topicId = 'L1513996235_topic184_1587130146747' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic597_1587130146760' AND b.topicId = 'L1513996235_topic418_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic598_1587130146760' AND b.topicId = 'L1513996235_topic526_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic599_1587130146760' AND b.topicId = 'L1513996235_topic417_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic599_1587130146760' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic600_1587130146760' AND b.topicId = 'L1513996235_topic417_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic600_1587130146760' AND b.topicId = 'L1513996235_topic410_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic601_1587130146760' AND b.topicId = 'L1513996235_topic201_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic602_1587130146760' AND b.topicId = 'L1513996235_topic448_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic603_1587130146760' AND b.topicId = 'L1513996235_topic105_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic604_1587130146760' AND b.topicId = 'L1513996235_topic90_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic605_1587130146760' AND b.topicId = 'L1513996235_topic517_1587130146758' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic606_1587130146760' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic608_1587130146760' AND b.topicId = 'L1513996235_topic448_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic609_1587130146760' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic610_1587130146760' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic611_1587130146760' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic612_1587130146760' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic613_1587130146760' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic614_1587130146760' AND b.topicId = 'L1513996235_topic93_1587130146744' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic615_1587130146761' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic616_1587130146761' AND b.topicId = 'L1513996235_topic84_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic617_1587130146761' AND b.topicId = 'L1513996235_topic85_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic618_1587130146761' AND b.topicId = 'L1513996235_topic447_1587130146755' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic619_1587130146761' AND b.topicId = 'L1513996235_topic217_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic620_1587130146761' AND b.topicId = 'L1513996235_topic417_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic621_1587130146761' AND b.topicId = 'L1513996235_topic71_1587130146743' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic622_1587130146761' AND b.topicId = 'L1513996235_topic200_1587130146748' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic623_1587130146761' AND b.topicId = 'L1513996235_topic423_1587130146754' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic624_1587130146761' AND b.topicId = 'L1513996235_topic623_1587130146761' CREATE (a)-[r:instanceOf]->(b)
-WITH true as pass
-MATCH (a:Topic),(b:Topic) WHERE a.topicId = 'L1513996235_topic625_1587130146761' AND b.topicId = 'L1513996235_topic447_1587130146755' CREATE (a)-[r:instanceOf]->(b)
+MATCH (a:Topic {topicId: 'L1513996235_topic60_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic58_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic60_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic61_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic62_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic58_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic62_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic63_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic58_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic64_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic62_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic64_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic65_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic62_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic65_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic66_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic58_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic66_1587130146742'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic67_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic68_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic66_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic68_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic69_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic70_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic71_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic70_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic67_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic71_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic66_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic71_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic67_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic72_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic72_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic75_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic75_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic66_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic75_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic76_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic75_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic76_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic77_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic77_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic84_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic63_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic85_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic63_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic85_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic87_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic85_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic87_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic88_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic60_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic88_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic89_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic60_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic89_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic60_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic91_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic88_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic91_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic66_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic94_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic95_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic95_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic96_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic95_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic97_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic98_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic98_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic99_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic71_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic99_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic67_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic100_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic85_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic100_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic101_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic85_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic101_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic102_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic102_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic103_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic105_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic89_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic105_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic106_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic105_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic106_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic107_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic105_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic107_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic109_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic105_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic109_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic110_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic88_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic110_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic111_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic110_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic111_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic112_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic110_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic112_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic113_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic110_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic113_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic114_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic110_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic114_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic115_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic110_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic115_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic116_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic116_1587130146744'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic89_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic117_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic117_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic119_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic119_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic88_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic119_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic103_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic120_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic120_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic121_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic121_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic122_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic122_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic123_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic123_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic124_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic124_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic125_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic125_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic126_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic126_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic127_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic127_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic128_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic128_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic129_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic129_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic130_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic130_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic131_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic131_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic132_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic132_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic133_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic133_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic134_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic134_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic135_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic135_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic136_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic137_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic136_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic137_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic75_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic137_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic138_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic137_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic138_1587130146745'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic139_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic139_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic140_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic140_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic141_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic141_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic89_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic142_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic131_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic143_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic131_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic144_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic144_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic145_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic62_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic145_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic147_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic146_1587130146746'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic148_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic146_1587130146746'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic149_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic66_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic149_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic151_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic151_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic103_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic152_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic152_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic103_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic152_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic97_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic153_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic153_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic103_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic154_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic154_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic155_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic155_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic156_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic156_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic157_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic157_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic158_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic158_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic97_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic159_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic159_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic97_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic160_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic160_1587130146746'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic97_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic161_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic161_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic162_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic84_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic162_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic162_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic163_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic84_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic163_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic163_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic164_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic164_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic103_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic175_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic175_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic177_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic177_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic96_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic178_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic178_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic179_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic179_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic180_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic179_1587130146747'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic181_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic179_1587130146747'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic182_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic182_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic183_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic183_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic184_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic89_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic184_1587130146747'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic189_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic84_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic189_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic190_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic189_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic191_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic198_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic199_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic199_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic75_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic200_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic66_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic201_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic66_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic201_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic202_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic189_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic202_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic190_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic203_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic189_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic203_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic190_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic207_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic207_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic97_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic208_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic204_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic209_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic204_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic211_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic189_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic211_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic190_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic58_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic218_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic218_1587130146748'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic219_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic218_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic227_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic134_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic228_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic134_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic231_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic231_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic96_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic237_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic237_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic243_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic218_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic244_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic243_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic245_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic243_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic246_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic156_1587130146746'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic247_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic156_1587130146746'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic249_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic211_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic249_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic190_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic250_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic211_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic250_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic190_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic251_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic211_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic251_1587130146749'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic190_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic252_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic211_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic252_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic190_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic256_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic256_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic96_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic256_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic61_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic260_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic105_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic260_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic263_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic118_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic263_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic264_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic72_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic265_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic266_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic265_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic266_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic266_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic267_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic201_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic267_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic60_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic275_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic275_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic278_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic278_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic97_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic282_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic68_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic282_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic69_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic283_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic68_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic283_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic69_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic284_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic71_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic284_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic67_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic285_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic73_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic285_1587130146750'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic286_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic200_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic286_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic287_1587130146751'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic288_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic200_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic288_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic289_1587130146751'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic290_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic200_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic290_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic287_1587130146751'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic291_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic266_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic291_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic292_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic218_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic293_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic293_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic96_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic293_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic294_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic294_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic295_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic295_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic296_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic296_1587130146751'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic402_1587130146753'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic245_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic403_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic245_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic404_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic404_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic405_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic405_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic405_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic406_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic58_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic406_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic407_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic406_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic407_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic408_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic409_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic408_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic409_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic407_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic409_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic411_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic407_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic411_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic412_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic409_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic412_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic413_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic409_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic413_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic414_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic407_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic414_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic415_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic405_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic415_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic416_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic416_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic417_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic417_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic406_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic417_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic418_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic405_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic418_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic419_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic88_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic419_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic92_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic420_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic420_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic407_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic421_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic409_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic421_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic422_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic422_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic58_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic424_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic146_1587130146746'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic425_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic60_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic425_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic61_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic426_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic407_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic426_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic427_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic418_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic427_1587130146754'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic428_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic428_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic429_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic429_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic430_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic431_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic432_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic433_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic434_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic435_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic436_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic436_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic437_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic437_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic438_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic438_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic439_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic439_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic440_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic440_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic441_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic428_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic442_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic428_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic443_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic161_1587130146747'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic444_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic443_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic445_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic443_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic446_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic447_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic447_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic58_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic448_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic448_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic234_1587130146749'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic449_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic448_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic450_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic448_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic451_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic451_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic96_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic451_1587130146755'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic452_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic75_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic453_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic256_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic454_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic95_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic454_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic96_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic455_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic95_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic455_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic96_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic455_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic456_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic456_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic405_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic457_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic417_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic457_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic458_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic417_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic458_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic459_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic459_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic460_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic89_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic460_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic461_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic461_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic86_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic464_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic464_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic466_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic466_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic467_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic467_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic468_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic468_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic469_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic469_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic470_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic470_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic471_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic471_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic472_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic472_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic473_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic473_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic474_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic474_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic475_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic475_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic476_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic476_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic477_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic477_1587130146756'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic478_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic478_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic479_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic480_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic480_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic481_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic481_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic482_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic482_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic483_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic483_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic484_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic484_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic485_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic485_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic486_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic486_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic487_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic271_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic487_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic488_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic201_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic488_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic489_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic201_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic489_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic490_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic201_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic490_1587130146757'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic514_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic514_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic515_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic515_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic515_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic516_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic516_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic516_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic272_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic517_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic517_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic516_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic518_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic526_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic526_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic516_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic527_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic518_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic528_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic518_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic529_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic266_1587130146750'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic529_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic59_1587130146742'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic534_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic540_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic541_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic447_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic542_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic84_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic543_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic544_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic545_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic447_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic546_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic87_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic546_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic96_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic546_1587130146758'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic447_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic551_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic200_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic551_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic289_1587130146751'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic555_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic555_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic556_1587130146759'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic555_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic103_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic575_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic417_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic580_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic581_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic119_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic582_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic119_1587130146745'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic584_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic580_1587130146759'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic585_1587130146759'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic447_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic590_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic515_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic591_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic515_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic592_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic201_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic592_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic74_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic593_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic407_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic594_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic596_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic184_1587130146747'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic597_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic418_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic598_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic526_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic599_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic417_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic599_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic600_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic417_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic600_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic410_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic601_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic201_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic602_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic448_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic603_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic105_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic604_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic90_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic605_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic517_1587130146758'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic606_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic608_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic448_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic609_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic610_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic611_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic612_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic613_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic614_1587130146760'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic93_1587130146744'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic615_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic616_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic84_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic617_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic85_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic618_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic447_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic619_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic217_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic620_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic417_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic621_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic71_1587130146743'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic622_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic200_1587130146748'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic623_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic423_1587130146754'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic624_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic623_1587130146761'} )
+CREATE (a)-[:instanceOf]->(b)
+WITH true as pass
+MATCH (a:Topic {topicId: 'L1513996235_topic625_1587130146761'} )
+MATCH (b:Topic {topicId: 'L1513996235_topic447_1587130146755'} )
+CREATE (a)-[:instanceOf]->(b)

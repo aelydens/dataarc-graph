@@ -1,0 +1,640 @@
+MATCH (c:Combinator { comb_id: 167 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 164 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 173 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 162 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 153 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 174 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 163 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 154 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 168 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 165 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 175 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 166 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 169 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 170 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 156 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 177 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 157 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 171 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 178 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 172 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 158 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 179 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 159 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 180 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 160 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 181 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 161 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 46 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 3 } )
+MATCH (nullStrawhacker:User { name: 'null Strawhacker'} )
+CREATE (c)-[:fromUser]->(nullStrawhacker)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 127 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 36 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 10 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 13 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 19 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 38 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 89 } )
+MATCH (TraustiDagsson:User { name: 'Trausti Dagsson'} )
+CREATE (c)-[:fromUser]->(TraustiDagsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 33 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 75 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 37 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 21 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 20 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 41 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 34 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 35 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 43 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 42 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 44 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 48 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 26 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 31 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 24 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 40 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 69 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 14 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 45 } )
+MATCH (PhilipBuckland:User { name: 'Philip Buckland'} )
+CREATE (c)-[:fromUser]->(PhilipBuckland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 11 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 8 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 12 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 5 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 9 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 84 } )
+MATCH (RachelOpitz:User { name: 'Rachel Opitz'} )
+CREATE (c)-[:fromUser]->(RachelOpitz)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 80 } )
+MATCH (RachelOpitz:User { name: 'Rachel Opitz'} )
+CREATE (c)-[:fromUser]->(RachelOpitz)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (RachelOpitz:User { name: 'Rachel Opitz'} )
+CREATE (c)-[:fromUser]->(RachelOpitz)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 112 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 60 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 90 } )
+MATCH (TraustiDagsson:User { name: 'Trausti Dagsson'} )
+CREATE (c)-[:fromUser]->(TraustiDagsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (EmilyLethbridge:User { name: 'Emily Lethbridge'} )
+CREATE (c)-[:fromUser]->(EmilyLethbridge)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (EmilyLethbridge:User { name: 'Emily Lethbridge'} )
+CREATE (c)-[:fromUser]->(EmilyLethbridge)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 79 } )
+MATCH (EmilyLethbridge:User { name: 'Emily Lethbridge'} )
+CREATE (c)-[:fromUser]->(EmilyLethbridge)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 88 } )
+MATCH (TraustiDagsson:User { name: 'Trausti Dagsson'} )
+CREATE (c)-[:fromUser]->(TraustiDagsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 56 } )
+MATCH (ColleenStrawhacker:User { name: 'Colleen Strawhacker'} )
+CREATE (c)-[:fromUser]->(ColleenStrawhacker)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (RachelOpitz:User { name: 'Rachel Opitz'} )
+CREATE (c)-[:fromUser]->(RachelOpitz)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 52 } )
+MATCH (EmilyLethbridge:User { name: 'Emily Lethbridge'} )
+CREATE (c)-[:fromUser]->(EmilyLethbridge)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 118 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 70 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 65 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 67 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 72 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 66 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 86 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 82 } )
+MATCH (RachelOpitz:User { name: 'Rachel Opitz'} )
+CREATE (c)-[:fromUser]->(RachelOpitz)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 68 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 71 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 150 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 151 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 152 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 121 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 148 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 145 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 142 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 143 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 147 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 141 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 120 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 146 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 124 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 131 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 133 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 128 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 129 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 135 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 123 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 119 } )
+MATCH (RachelOpitz:User { name: 'Rachel Opitz'} )
+CREATE (c)-[:fromUser]->(RachelOpitz)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 149 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 132 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 144 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 122 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 139 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 125 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 140 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 134 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 130 } )
+MATCH (GísliPálsson:User { name: 'Gísli Pálsson'} )
+CREATE (c)-[:fromUser]->(GísliPálsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 7 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 51 } )
+MATCH (AdamBrin:User { name: 'Adam Brin'} )
+CREATE (c)-[:fromUser]->(AdamBrin)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 87 } )
+MATCH (TraustiDagsson:User { name: 'Trausti Dagsson'} )
+CREATE (c)-[:fromUser]->(TraustiDagsson)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 49 } )
+MATCH (DeidreWhitmore:User { name: 'Deidre Whitmore'} )
+CREATE (c)-[:fromUser]->(DeidreWhitmore)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 55 } )
+MATCH (AnthonyNewton:User { name: 'Anthony Newton'} )
+CREATE (c)-[:fromUser]->(AnthonyNewton)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (AnthonyNewton:User { name: 'Anthony Newton'} )
+CREATE (c)-[:fromUser]->(AnthonyNewton)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (AnthonyNewton:User { name: 'Anthony Newton'} )
+CREATE (c)-[:fromUser]->(AnthonyNewton)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (AnthonyNewton:User { name: 'Anthony Newton'} )
+CREATE (c)-[:fromUser]->(AnthonyNewton)
+WITH true as pass
+

@@ -1,0 +1,640 @@
+MATCH (c:Combinator { comb_id: 167 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 164 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 173 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 162 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 153 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 174 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 163 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 154 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 168 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 165 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 175 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 166 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 169 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 170 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 156 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 177 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 157 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 171 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 178 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 172 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 158 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 179 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 159 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 180 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 160 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 181 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 161 } )
+MATCH (new_units_finds_iceland:Dataset { name: 'new_units_finds_iceland'} )
+CREATE (c)-[:fromDataset]->(new_units_finds_iceland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 46 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 3 } )
+MATCH (orkneyfauna:Dataset { name: 'orkneyfauna'} )
+CREATE (c)-[:fromDataset]->(orkneyfauna)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 127 } )
+MATCH (enviro_threats_icelandic_sites:Dataset { name: 'enviro_threats_icelandic_sites'} )
+CREATE (c)-[:fromDataset]->(enviro_threats_icelandic_sites)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 36 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 10 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 13 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 19 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 38 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 89 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 33 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 75 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 37 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 21 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 20 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 41 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 34 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 35 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 43 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 42 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 44 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 48 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 26 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 31 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 24 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 40 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 69 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 14 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 45 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 11 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 8 } )
+MATCH (sead:Dataset { name: 'sead'} )
+CREATE (c)-[:fromDataset]->(sead)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 12 } )
+MATCH (orkneyfauna:Dataset { name: 'orkneyfauna'} )
+CREATE (c)-[:fromDataset]->(orkneyfauna)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 5 } )
+MATCH (orkneyfauna:Dataset { name: 'orkneyfauna'} )
+CREATE (c)-[:fromDataset]->(orkneyfauna)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 9 } )
+MATCH (orkneyfauna:Dataset { name: 'orkneyfauna'} )
+CREATE (c)-[:fromDataset]->(orkneyfauna)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 84 } )
+MATCH (orkneyfauna:Dataset { name: 'orkneyfauna'} )
+CREATE (c)-[:fromDataset]->(orkneyfauna)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 80 } )
+MATCH (orkneyfauna:Dataset { name: 'orkneyfauna'} )
+CREATE (c)-[:fromDataset]->(orkneyfauna)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (orkneyfauna:Dataset { name: 'orkneyfauna'} )
+CREATE (c)-[:fromDataset]->(orkneyfauna)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 112 } )
+MATCH (enviro_threats_icelandic_sites:Dataset { name: 'enviro_threats_icelandic_sites'} )
+CREATE (c)-[:fromDataset]->(enviro_threats_icelandic_sites)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 60 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 90 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 79 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 88 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 56 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 52 } )
+MATCH (sagas:Dataset { name: 'sagas'} )
+CREATE (c)-[:fromDataset]->(sagas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 118 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 70 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 65 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 67 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 72 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 66 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 86 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 82 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 68 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 71 } )
+MATCH (farms2:Dataset { name: 'farms2'} )
+CREATE (c)-[:fromDataset]->(farms2)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 150 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 151 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 152 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 121 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 148 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 145 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 142 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 143 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 147 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 141 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 120 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 146 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 124 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 131 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 133 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 128 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 129 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 135 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 123 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 119 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 149 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 132 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 144 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 122 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 139 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 125 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 140 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 134 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 130 } )
+MATCH (excav_finds_units:Dataset { name: 'excav_finds_units'} )
+CREATE (c)-[:fromDataset]->(excav_finds_units)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 7 } )
+MATCH (nabone_svk:Dataset { name: 'nabone_svk'} )
+CREATE (c)-[:fromDataset]->(nabone_svk)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 51 } )
+MATCH (viga:Dataset { name: 'viga'} )
+CREATE (c)-[:fromDataset]->(viga)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 87 } )
+MATCH (viga:Dataset { name: 'viga'} )
+CREATE (c)-[:fromDataset]->(viga)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 49 } )
+MATCH (viga:Dataset { name: 'viga'} )
+CREATE (c)-[:fromDataset]->(viga)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 55 } )
+MATCH (teph:Dataset { name: 'teph'} )
+CREATE (c)-[:fromDataset]->(teph)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (teph:Dataset { name: 'teph'} )
+CREATE (c)-[:fromDataset]->(teph)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (teph:Dataset { name: 'teph'} )
+CREATE (c)-[:fromDataset]->(teph)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (teph:Dataset { name: 'teph'} )
+CREATE (c)-[:fromDataset]->(teph)
+WITH true as pass
+

@@ -1,0 +1,2272 @@
+MATCH (c:Combinator { comb_id: 167 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 167 } )
+MATCH (topic_saganarrative:Topic { name: 'saga narrative'} )
+CREATE (c)-[:hasTopic]->(topic_saganarrative)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 164 } )
+MATCH (topic_avian:Topic { name: 'avian'} )
+CREATE (c)-[:hasTopic]->(topic_avian)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 164 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 164 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 164 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 173 } )
+MATCH (topic_woodlandmanagement:Topic { name: 'woodland management'} )
+CREATE (c)-[:hasTopic]->(topic_woodlandmanagement)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 173 } )
+MATCH (topic_Woodandtrees:Topic { name: 'Wood and trees'} )
+CREATE (c)-[:hasTopic]->(topic_Woodandtrees)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 173 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 173 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 162 } )
+MATCH (topic_wool:Topic { name: 'wool'} )
+CREATE (c)-[:hasTopic]->(topic_wool)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 162 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 162 } )
+MATCH (topic_sheep:Topic { name: 'sheep'} )
+CREATE (c)-[:hasTopic]->(topic_sheep)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 162 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 162 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 162 } )
+MATCH (topic_shearing:Topic { name: 'shearing'} )
+CREATE (c)-[:hasTopic]->(topic_shearing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 162 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 153 } )
+MATCH (topic_gender:Topic { name: 'gender'} )
+CREATE (c)-[:hasTopic]->(topic_gender)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 153 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 174 } )
+MATCH (topic_horse:Topic { name: 'horse'} )
+CREATE (c)-[:hasTopic]->(topic_horse)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 174 } )
+MATCH (topic_interredanimal:Topic { name: 'interred animal'} )
+CREATE (c)-[:hasTopic]->(topic_interredanimal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 174 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 174 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 163 } )
+MATCH (topic_wool:Topic { name: 'wool'} )
+CREATE (c)-[:hasTopic]->(topic_wool)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 163 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 163 } )
+MATCH (topic_sheep:Topic { name: 'sheep'} )
+CREATE (c)-[:hasTopic]->(topic_sheep)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 163 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 163 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 163 } )
+MATCH (topic_shearing:Topic { name: 'shearing'} )
+CREATE (c)-[:hasTopic]->(topic_shearing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 163 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 154 } )
+MATCH (topic_sharedspaces:Topic { name: 'shared spaces'} )
+CREATE (c)-[:hasTopic]->(topic_sharedspaces)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 154 } )
+MATCH (topic_socializing:Topic { name: 'socializing'} )
+CREATE (c)-[:hasTopic]->(topic_socializing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 154 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 154 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 154 } )
+MATCH (topic_building:Topic { name: 'building'} )
+CREATE (c)-[:hasTopic]->(topic_building)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 168 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 168 } )
+MATCH (topic_Power:Topic { name: 'Power'} )
+CREATE (c)-[:hasTopic]->(topic_Power)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 168 } )
+MATCH (topic_EcclesiasticalPower:Topic { name: 'Ecclesiastical Power'} )
+CREATE (c)-[:hasTopic]->(topic_EcclesiasticalPower)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 168 } )
+MATCH (topic_stories:Topic { name: 'stories'} )
+CREATE (c)-[:hasTopic]->(topic_stories)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 168 } )
+MATCH (topic_writtenwork:Topic { name: 'written work'} )
+CREATE (c)-[:hasTopic]->(topic_writtenwork)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 168 } )
+MATCH (topic_recording:Topic { name: 'recording'} )
+CREATE (c)-[:hasTopic]->(topic_recording)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 165 } )
+MATCH (topic_Power:Topic { name: 'Power'} )
+CREATE (c)-[:hasTopic]->(topic_Power)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 165 } )
+MATCH (topic_deadhuman:Topic { name: 'dead human'} )
+CREATE (c)-[:hasTopic]->(topic_deadhuman)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 165 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 175 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 175 } )
+MATCH (topic_fish:Topic { name: 'fish'} )
+CREATE (c)-[:hasTopic]->(topic_fish)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 175 } )
+MATCH (topic_port:Topic { name: 'port'} )
+CREATE (c)-[:hasTopic]->(topic_port)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 175 } )
+MATCH (topic_stillwater:Topic { name: 'still water'} )
+CREATE (c)-[:hasTopic]->(topic_stillwater)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 175 } )
+MATCH (topic_sea:Topic { name: 'sea'} )
+CREATE (c)-[:hasTopic]->(topic_sea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 175 } )
+MATCH (topic_fishing:Topic { name: 'fishing'} )
+CREATE (c)-[:hasTopic]->(topic_fishing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 175 } )
+MATCH (topic_Aquatics:Topic { name: 'Aquatics'} )
+CREATE (c)-[:hasTopic]->(topic_Aquatics)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 166 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 166 } )
+MATCH (topic_socializing:Topic { name: 'socializing'} )
+CREATE (c)-[:hasTopic]->(topic_socializing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 166 } )
+MATCH (topic_meeting:Topic { name: 'meeting'} )
+CREATE (c)-[:hasTopic]->(topic_meeting)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (topic_cow:Topic { name: 'cow'} )
+CREATE (c)-[:hasTopic]->(topic_cow)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (topic_caribou:Topic { name: 'caribou'} )
+CREATE (c)-[:hasTopic]->(topic_caribou)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (topic_livestock:Topic { name: 'livestock'} )
+CREATE (c)-[:hasTopic]->(topic_livestock)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (topic_domesticanimal:Topic { name: 'domestic animal'} )
+CREATE (c)-[:hasTopic]->(topic_domesticanimal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 155 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 169 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 169 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 169 } )
+MATCH (topic_grasses:Topic { name: 'grasses'} )
+CREATE (c)-[:hasTopic]->(topic_grasses)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 169 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_builtenvironment:Topic { name: 'built environment'} )
+CREATE (c)-[:hasTopic]->(topic_builtenvironment)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_building:Topic { name: 'building'} )
+CREATE (c)-[:hasTopic]->(topic_building)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_farm:Topic { name: 'farm'} )
+CREATE (c)-[:hasTopic]->(topic_farm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_independentfarm:Topic { name: 'independent farm'} )
+CREATE (c)-[:hasTopic]->(topic_independentfarm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_tenantfarm:Topic { name: 'tenant farm'} )
+CREATE (c)-[:hasTopic]->(topic_tenantfarm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_churchfarm:Topic { name: 'church farm'} )
+CREATE (c)-[:hasTopic]->(topic_churchfarm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_family:Topic { name: 'family'} )
+CREATE (c)-[:hasTopic]->(topic_family)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_socializing:Topic { name: 'socializing'} )
+CREATE (c)-[:hasTopic]->(topic_socializing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 176 } )
+MATCH (topic_communalbuilding:Topic { name: 'communal building'} )
+CREATE (c)-[:hasTopic]->(topic_communalbuilding)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 170 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 170 } )
+MATCH (topic_middenassemblage:Topic { name: 'midden assemblage'} )
+CREATE (c)-[:hasTopic]->(topic_middenassemblage)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 170 } )
+MATCH (topic_consumption:Topic { name: 'consumption'} )
+CREATE (c)-[:hasTopic]->(topic_consumption)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 156 } )
+MATCH (topic_plants:Topic { name: 'plants'} )
+CREATE (c)-[:hasTopic]->(topic_plants)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 156 } )
+MATCH (topic_foodpreparation:Topic { name: 'food preparation'} )
+CREATE (c)-[:hasTopic]->(topic_foodpreparation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 156 } )
+MATCH (topic_resources:Topic { name: 'resources'} )
+CREATE (c)-[:hasTopic]->(topic_resources)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 156 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 177 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 177 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 157 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 157 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 171 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 171 } )
+MATCH (topic_foodpreparation:Topic { name: 'food preparation'} )
+CREATE (c)-[:hasTopic]->(topic_foodpreparation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 171 } )
+MATCH (topic_consumption:Topic { name: 'consumption'} )
+CREATE (c)-[:hasTopic]->(topic_consumption)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 171 } )
+MATCH (topic_health:Topic { name: 'health'} )
+CREATE (c)-[:hasTopic]->(topic_health)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 171 } )
+MATCH (topic_food:Topic { name: 'food'} )
+CREATE (c)-[:hasTopic]->(topic_food)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 178 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 178 } )
+MATCH (topic_things:Topic { name: 'things'} )
+CREATE (c)-[:hasTopic]->(topic_things)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 178 } )
+MATCH (topic_metalvessel:Topic { name: 'metal vessel'} )
+CREATE (c)-[:hasTopic]->(topic_metalvessel)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 178 } )
+MATCH (topic_resources:Topic { name: 'resources'} )
+CREATE (c)-[:hasTopic]->(topic_resources)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 178 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 172 } )
+MATCH (topic_churchfarm:Topic { name: 'church farm'} )
+CREATE (c)-[:hasTopic]->(topic_churchfarm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 172 } )
+MATCH (topic_EcclesiasticalPower:Topic { name: 'Ecclesiastical Power'} )
+CREATE (c)-[:hasTopic]->(topic_EcclesiasticalPower)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 172 } )
+MATCH (topic_wholechurch:Topic { name: 'whole church'} )
+CREATE (c)-[:hasTopic]->(topic_wholechurch)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 172 } )
+MATCH (topic_halfchurch:Topic { name: 'half church'} )
+CREATE (c)-[:hasTopic]->(topic_halfchurch)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 172 } )
+MATCH (topic_bishop'schurch:Topic { name: 'bishop's church'} )
+CREATE (c)-[:hasTopic]->(topic_bishop'schurch)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 158 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 158 } )
+MATCH (topic_sheep:Topic { name: 'sheep'} )
+CREATE (c)-[:hasTopic]->(topic_sheep)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 158 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 158 } )
+MATCH (topic_bone:Topic { name: 'bone'} )
+CREATE (c)-[:hasTopic]->(topic_bone)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 158 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 158 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 179 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 179 } )
+MATCH (topic_interredanimal:Topic { name: 'interred animal'} )
+CREATE (c)-[:hasTopic]->(topic_interredanimal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 179 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 159 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 159 } )
+MATCH (topic_metalvessel:Topic { name: 'metal vessel'} )
+CREATE (c)-[:hasTopic]->(topic_metalvessel)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 159 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 180 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 180 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 160 } )
+MATCH (topic_ceramicvessel:Topic { name: 'ceramic vessel'} )
+CREATE (c)-[:hasTopic]->(topic_ceramicvessel)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 160 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 181 } )
+MATCH (topic_sharedspaces:Topic { name: 'shared spaces'} )
+CREATE (c)-[:hasTopic]->(topic_sharedspaces)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 181 } )
+MATCH (topic_building:Topic { name: 'building'} )
+CREATE (c)-[:hasTopic]->(topic_building)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 181 } )
+MATCH (topic_meeting:Topic { name: 'meeting'} )
+CREATE (c)-[:hasTopic]->(topic_meeting)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 161 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 161 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 46 } )
+MATCH (topic_Mouldyarea:Topic { name: 'Mouldy area'} )
+CREATE (c)-[:hasTopic]->(topic_Mouldyarea)
+WITH true as pass
+
+
+MATCH (c:Combinator { comb_id: 127 } )
+MATCH (topic_erosion:Topic { name: 'erosion'} )
+CREATE (c)-[:hasTopic]->(topic_erosion)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 127 } )
+MATCH (topic_landdegredation:Topic { name: 'land degredation'} )
+CREATE (c)-[:hasTopic]->(topic_landdegredation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 127 } )
+MATCH (topic_weather:Topic { name: 'weather'} )
+CREATE (c)-[:hasTopic]->(topic_weather)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 127 } )
+MATCH (topic_storminess:Topic { name: 'storminess'} )
+CREATE (c)-[:hasTopic]->(topic_storminess)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 36 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 36 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 36 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 36 } )
+MATCH (topic_health:Topic { name: 'health'} )
+CREATE (c)-[:hasTopic]->(topic_health)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 10 } )
+MATCH (topic_linearditch:Topic { name: 'linear ditch'} )
+CREATE (c)-[:hasTopic]->(topic_linearditch)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 10 } )
+MATCH (topic_stillwater:Topic { name: 'still water'} )
+CREATE (c)-[:hasTopic]->(topic_stillwater)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 10 } )
+MATCH (topic_Aquatics:Topic { name: 'Aquatics'} )
+CREATE (c)-[:hasTopic]->(topic_Aquatics)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 10 } )
+MATCH (topic_Standingwater:Topic { name: 'Standing water'} )
+CREATE (c)-[:hasTopic]->(topic_Standingwater)
+WITH true as pass
+
+
+MATCH (c:Combinator { comb_id: 19 } )
+MATCH (topic_insects:Topic { name: 'insects'} )
+CREATE (c)-[:hasTopic]->(topic_insects)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 38 } )
+MATCH (topic_moorland:Topic { name: 'moorland'} )
+CREATE (c)-[:hasTopic]->(topic_moorland)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 38 } )
+MATCH (topic_heathland:Topic { name: 'heathland'} )
+CREATE (c)-[:hasTopic]->(topic_heathland)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 38 } )
+MATCH (topic_Heathlandandmoorland:Topic { name: 'Heathland and moorland'} )
+CREATE (c)-[:hasTopic]->(topic_Heathlandandmoorland)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 89 } )
+MATCH (topic_travel:Topic { name: 'travel'} )
+CREATE (c)-[:hasTopic]->(topic_travel)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 33 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 33 } )
+MATCH (topic_erosion:Topic { name: 'erosion'} )
+CREATE (c)-[:hasTopic]->(topic_erosion)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 33 } )
+MATCH (topic_Disturbedorarable:Topic { name: 'Disturbed or arable'} )
+CREATE (c)-[:hasTopic]->(topic_Disturbedorarable)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 33 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 75 } )
+MATCH (topic_wood:Topic { name: 'wood'} )
+CREATE (c)-[:hasTopic]->(topic_wood)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 37 } )
+MATCH (topic_saltyareas:Topic { name: 'salty areas'} )
+CREATE (c)-[:hasTopic]->(topic_saltyareas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 21 } )
+MATCH (topic_radiocarbon:Topic { name: 'radiocarbon'} )
+CREATE (c)-[:hasTopic]->(topic_radiocarbon)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 20 } )
+MATCH (topic_livehuman:Topic { name: 'live human'} )
+CREATE (c)-[:hasTopic]->(topic_livehuman)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 41 } )
+MATCH (topic_ConiferousTrees:Topic { name: 'Coniferous Trees'} )
+CREATE (c)-[:hasTopic]->(topic_ConiferousTrees)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 34 } )
+MATCH (topic_Meadowland:Topic { name: 'Meadowland'} )
+CREATE (c)-[:hasTopic]->(topic_Meadowland)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 34 } )
+MATCH (topic_Dungorfoulhabitats:Topic { name: 'Dung or foul habitats'} )
+CREATE (c)-[:hasTopic]->(topic_Dungorfoulhabitats)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 35 } )
+MATCH (topic_Dungorfoulhabitats:Topic { name: 'Dung or foul habitats'} )
+CREATE (c)-[:hasTopic]->(topic_Dungorfoulhabitats)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 43 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 43 } )
+MATCH (topic_Dung:Topic { name: 'Dung'} )
+CREATE (c)-[:hasTopic]->(topic_Dung)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 42 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 42 } )
+MATCH (topic_Dung:Topic { name: 'Dung'} )
+CREATE (c)-[:hasTopic]->(topic_Dung)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 44 } )
+MATCH (topic_DeciduousTrees:Topic { name: 'Deciduous Trees'} )
+CREATE (c)-[:hasTopic]->(topic_DeciduousTrees)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 48 } )
+MATCH (topic_movingwater:Topic { name: 'moving water'} )
+CREATE (c)-[:hasTopic]->(topic_movingwater)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 48 } )
+MATCH (topic_river:Topic { name: 'river'} )
+CREATE (c)-[:hasTopic]->(topic_river)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 48 } )
+MATCH (topic_stream:Topic { name: 'stream'} )
+CREATE (c)-[:hasTopic]->(topic_stream)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 48 } )
+MATCH (topic_Aquatics:Topic { name: 'Aquatics'} )
+CREATE (c)-[:hasTopic]->(topic_Aquatics)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 48 } )
+MATCH (topic_Runningwater:Topic { name: 'Running water'} )
+CREATE (c)-[:hasTopic]->(topic_Runningwater)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 26 } )
+MATCH (topic_deciduousunmanagedforest:Topic { name: 'deciduous unmanaged forest'} )
+CREATE (c)-[:hasTopic]->(topic_deciduousunmanagedforest)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 31 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 31 } )
+MATCH (topic_erosion:Topic { name: 'erosion'} )
+CREATE (c)-[:hasTopic]->(topic_erosion)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 31 } )
+MATCH (topic_Disturbedorarable:Topic { name: 'Disturbed or arable'} )
+CREATE (c)-[:hasTopic]->(topic_Disturbedorarable)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 31 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 24 } )
+MATCH (topic_mammal:Topic { name: 'mammal'} )
+CREATE (c)-[:hasTopic]->(topic_mammal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 24 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 24 } )
+MATCH (topic_vellum:Topic { name: 'vellum'} )
+CREATE (c)-[:hasTopic]->(topic_vellum)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 24 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 24 } )
+MATCH (topic_Carrion:Topic { name: 'Carrion'} )
+CREATE (c)-[:hasTopic]->(topic_Carrion)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 24 } )
+MATCH (topic_Carrion:Topic { name: 'Carrion'} )
+CREATE (c)-[:hasTopic]->(topic_Carrion)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (topic_gardenplot:Topic { name: 'garden plot'} )
+CREATE (c)-[:hasTopic]->(topic_gardenplot)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (topic_insects:Topic { name: 'insects'} )
+CREATE (c)-[:hasTopic]->(topic_insects)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (topic_insects:Topic { name: 'insects'} )
+CREATE (c)-[:hasTopic]->(topic_insects)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (topic_grainstore:Topic { name: 'grain store'} )
+CREATE (c)-[:hasTopic]->(topic_grainstore)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (topic_grainstore:Topic { name: 'grain store'} )
+CREATE (c)-[:hasTopic]->(topic_grainstore)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (topic_plants:Topic { name: 'plants'} )
+CREATE (c)-[:hasTopic]->(topic_plants)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (topic_plants:Topic { name: 'plants'} )
+CREATE (c)-[:hasTopic]->(topic_plants)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 22 } )
+MATCH (topic_Storedgrain:Topic { name: 'Stored grain'} )
+CREATE (c)-[:hasTopic]->(topic_Storedgrain)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 40 } )
+MATCH (topic_ConiferousTrees:Topic { name: 'Coniferous Trees'} )
+CREATE (c)-[:hasTopic]->(topic_ConiferousTrees)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 69 } )
+MATCH (topic_Dung:Topic { name: 'Dung'} )
+CREATE (c)-[:hasTopic]->(topic_Dung)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 14 } )
+MATCH (topic_managedlandscapearea:Topic { name: 'managed landscape area'} )
+CREATE (c)-[:hasTopic]->(topic_managedlandscapearea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 14 } )
+MATCH (topic_farm:Topic { name: 'farm'} )
+CREATE (c)-[:hasTopic]->(topic_farm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 14 } )
+MATCH (topic_landmanagement:Topic { name: 'land management'} )
+CREATE (c)-[:hasTopic]->(topic_landmanagement)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 14 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (topic_agriculturalbuilding:Topic { name: 'agricultural building'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturalbuilding)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (topic_building:Topic { name: 'building'} )
+CREATE (c)-[:hasTopic]->(topic_building)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (topic_barn:Topic { name: 'barn'} )
+CREATE (c)-[:hasTopic]->(topic_barn)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (topic_grainstore:Topic { name: 'grain store'} )
+CREATE (c)-[:hasTopic]->(topic_grainstore)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (topic_hutch:Topic { name: 'hutch'} )
+CREATE (c)-[:hasTopic]->(topic_hutch)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (topic_farm:Topic { name: 'farm'} )
+CREATE (c)-[:hasTopic]->(topic_farm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 25 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 45 } )
+MATCH (topic_trees:Topic { name: 'trees'} )
+CREATE (c)-[:hasTopic]->(topic_trees)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 45 } )
+MATCH (topic_Woodandtrees:Topic { name: 'Wood and trees'} )
+CREATE (c)-[:hasTopic]->(topic_Woodandtrees)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 11 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 8 } )
+MATCH (topic_movingwater:Topic { name: 'moving water'} )
+CREATE (c)-[:hasTopic]->(topic_movingwater)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 8 } )
+MATCH (topic_Runningwater:Topic { name: 'Running water'} )
+CREATE (c)-[:hasTopic]->(topic_Runningwater)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 8 } )
+MATCH (topic_Openwethabitats:Topic { name: 'Open wet habitats'} )
+CREATE (c)-[:hasTopic]->(topic_Openwethabitats)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 12 } )
+MATCH (topic_managedlandscapearea:Topic { name: 'managed landscape area'} )
+CREATE (c)-[:hasTopic]->(topic_managedlandscapearea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 12 } )
+MATCH (topic_whale/dolphin:Topic { name: 'whale / dolphin'} )
+CREATE (c)-[:hasTopic]->(topic_whale/dolphin)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 12 } )
+MATCH (topic_beachedwhale:Topic { name: 'beached whale'} )
+CREATE (c)-[:hasTopic]->(topic_beachedwhale)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 5 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 5 } )
+MATCH (topic_livestock:Topic { name: 'livestock'} )
+CREATE (c)-[:hasTopic]->(topic_livestock)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 5 } )
+MATCH (topic_stories:Topic { name: 'stories'} )
+CREATE (c)-[:hasTopic]->(topic_stories)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 5 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 5 } )
+MATCH (topic_Pasture/Dung:Topic { name: 'Pasture/Dung'} )
+CREATE (c)-[:hasTopic]->(topic_Pasture/Dung)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 9 } )
+MATCH (topic_sheep:Topic { name: 'sheep'} )
+CREATE (c)-[:hasTopic]->(topic_sheep)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 84 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 84 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 84 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 84 } )
+MATCH (topic_hunting:Topic { name: 'hunting'} )
+CREATE (c)-[:hasTopic]->(topic_hunting)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 84 } )
+MATCH (topic_consumption:Topic { name: 'consumption'} )
+CREATE (c)-[:hasTopic]->(topic_consumption)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 84 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 84 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 80 } )
+MATCH (topic_vellum:Topic { name: 'vellum'} )
+CREATE (c)-[:hasTopic]->(topic_vellum)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_managedlandscapearea:Topic { name: 'managed landscape area'} )
+CREATE (c)-[:hasTopic]->(topic_managedlandscapearea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_pasture:Topic { name: 'pasture'} )
+CREATE (c)-[:hasTopic]->(topic_pasture)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_livestock:Topic { name: 'livestock'} )
+CREATE (c)-[:hasTopic]->(topic_livestock)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_exchange:Topic { name: 'exchange'} )
+CREATE (c)-[:hasTopic]->(topic_exchange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_risk:Topic { name: 'risk'} )
+CREATE (c)-[:hasTopic]->(topic_risk)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_resources:Topic { name: 'resources'} )
+CREATE (c)-[:hasTopic]->(topic_resources)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 85 } )
+MATCH (topic_grazing:Topic { name: 'grazing'} )
+CREATE (c)-[:hasTopic]->(topic_grazing)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 112 } )
+MATCH (topic_managedlandscapearea:Topic { name: 'managed landscape area'} )
+CREATE (c)-[:hasTopic]->(topic_managedlandscapearea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 112 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 112 } )
+MATCH (topic_landscapechange:Topic { name: 'landscape change'} )
+CREATE (c)-[:hasTopic]->(topic_landscapechange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 112 } )
+MATCH (topic_erosion:Topic { name: 'erosion'} )
+CREATE (c)-[:hasTopic]->(topic_erosion)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 112 } )
+MATCH (topic_landdegredation:Topic { name: 'land degredation'} )
+CREATE (c)-[:hasTopic]->(topic_landdegredation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 112 } )
+MATCH (topic_woodlanddecline:Topic { name: 'woodland decline'} )
+CREATE (c)-[:hasTopic]->(topic_woodlanddecline)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_managedlandscapearea:Topic { name: 'managed landscape area'} )
+CREATE (c)-[:hasTopic]->(topic_managedlandscapearea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_boat:Topic { name: 'boat'} )
+CREATE (c)-[:hasTopic]->(topic_boat)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_building:Topic { name: 'building'} )
+CREATE (c)-[:hasTopic]->(topic_building)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_beach:Topic { name: 'beach'} )
+CREATE (c)-[:hasTopic]->(topic_beach)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_Power:Topic { name: 'Power'} )
+CREATE (c)-[:hasTopic]->(topic_Power)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_placeofworship:Topic { name: 'place of worship'} )
+CREATE (c)-[:hasTopic]->(topic_placeofworship)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_trees:Topic { name: 'trees'} )
+CREATE (c)-[:hasTopic]->(topic_trees)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_legalpower:Topic { name: 'legal power'} )
+CREATE (c)-[:hasTopic]->(topic_legalpower)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_charcoalpit:Topic { name: 'charcoal pit'} )
+CREATE (c)-[:hasTopic]->(topic_charcoalpit)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_woodlandmanagement:Topic { name: 'woodland management'} )
+CREATE (c)-[:hasTopic]->(topic_woodlandmanagement)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_landmanagement:Topic { name: 'land management'} )
+CREATE (c)-[:hasTopic]->(topic_landmanagement)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_Woodandtrees:Topic { name: 'Wood and trees'} )
+CREATE (c)-[:hasTopic]->(topic_Woodandtrees)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_Drydeadwood:Topic { name: 'Dry dead wood'} )
+CREATE (c)-[:hasTopic]->(topic_Drydeadwood)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 57 } )
+MATCH (topic_travel:Topic { name: 'travel'} )
+CREATE (c)-[:hasTopic]->(topic_travel)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 60 } )
+MATCH (topic_fishing:Topic { name: 'fishing'} )
+CREATE (c)-[:hasTopic]->(topic_fishing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 60 } )
+MATCH (topic_saltyareas:Topic { name: 'salty areas'} )
+CREATE (c)-[:hasTopic]->(topic_saltyareas)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 90 } )
+MATCH (topic_travel:Topic { name: 'travel'} )
+CREATE (c)-[:hasTopic]->(topic_travel)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_fieldboundary:Topic { name: 'field boundary'} )
+CREATE (c)-[:hasTopic]->(topic_fieldboundary)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_coop:Topic { name: 'coop'} )
+CREATE (c)-[:hasTopic]->(topic_coop)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_barn:Topic { name: 'barn'} )
+CREATE (c)-[:hasTopic]->(topic_barn)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_stable:Topic { name: 'stable'} )
+CREATE (c)-[:hasTopic]->(topic_stable)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_milkingpen:Topic { name: 'milking pen'} )
+CREATE (c)-[:hasTopic]->(topic_milkingpen)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_byre:Topic { name: 'byre'} )
+CREATE (c)-[:hasTopic]->(topic_byre)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_outhouse:Topic { name: 'outhouse'} )
+CREATE (c)-[:hasTopic]->(topic_outhouse)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_grainstore:Topic { name: 'grain store'} )
+CREATE (c)-[:hasTopic]->(topic_grainstore)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_shielingshed:Topic { name: 'shieling shed'} )
+CREATE (c)-[:hasTopic]->(topic_shielingshed)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_charcoalpit:Topic { name: 'charcoal pit'} )
+CREATE (c)-[:hasTopic]->(topic_charcoalpit)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 77 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_managedlandscapearea:Topic { name: 'managed landscape area'} )
+CREATE (c)-[:hasTopic]->(topic_managedlandscapearea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_pasture:Topic { name: 'pasture'} )
+CREATE (c)-[:hasTopic]->(topic_pasture)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_infieldarea:Topic { name: 'infield area'} )
+CREATE (c)-[:hasTopic]->(topic_infieldarea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_coop:Topic { name: 'coop'} )
+CREATE (c)-[:hasTopic]->(topic_coop)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_barn:Topic { name: 'barn'} )
+CREATE (c)-[:hasTopic]->(topic_barn)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_milkingpen:Topic { name: 'milking pen'} )
+CREATE (c)-[:hasTopic]->(topic_milkingpen)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_byre:Topic { name: 'byre'} )
+CREATE (c)-[:hasTopic]->(topic_byre)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_hayrick:Topic { name: 'hay rick'} )
+CREATE (c)-[:hasTopic]->(topic_hayrick)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_farm:Topic { name: 'farm'} )
+CREATE (c)-[:hasTopic]->(topic_farm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_livestock:Topic { name: 'livestock'} )
+CREATE (c)-[:hasTopic]->(topic_livestock)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_Power:Topic { name: 'Power'} )
+CREATE (c)-[:hasTopic]->(topic_Power)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_shielingshed:Topic { name: 'shieling shed'} )
+CREATE (c)-[:hasTopic]->(topic_shielingshed)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_milking:Topic { name: 'milking'} )
+CREATE (c)-[:hasTopic]->(topic_milking)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_grazing:Topic { name: 'grazing'} )
+CREATE (c)-[:hasTopic]->(topic_grazing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 58 } )
+MATCH (topic_herding:Topic { name: 'herding'} )
+CREATE (c)-[:hasTopic]->(topic_herding)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_managedlandscapearea:Topic { name: 'managed landscape area'} )
+CREATE (c)-[:hasTopic]->(topic_managedlandscapearea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_domesticanimal:Topic { name: 'domestic animal'} )
+CREATE (c)-[:hasTopic]->(topic_domesticanimal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_landscapechange:Topic { name: 'landscape change'} )
+CREATE (c)-[:hasTopic]->(topic_landscapechange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_landdegredation:Topic { name: 'land degredation'} )
+CREATE (c)-[:hasTopic]->(topic_landdegredation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_milking:Topic { name: 'milking'} )
+CREATE (c)-[:hasTopic]->(topic_milking)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_shearing:Topic { name: 'shearing'} )
+CREATE (c)-[:hasTopic]->(topic_shearing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_crops:Topic { name: 'crops'} )
+CREATE (c)-[:hasTopic]->(topic_crops)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_grazing:Topic { name: 'grazing'} )
+CREATE (c)-[:hasTopic]->(topic_grazing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 78 } )
+MATCH (topic_herding:Topic { name: 'herding'} )
+CREATE (c)-[:hasTopic]->(topic_herding)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 79 } )
+MATCH (topic_SocialObligation:Topic { name: 'Social Obligation'} )
+CREATE (c)-[:hasTopic]->(topic_SocialObligation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 79 } )
+MATCH (topic_placeofworship:Topic { name: 'place of worship'} )
+CREATE (c)-[:hasTopic]->(topic_placeofworship)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 79 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 79 } )
+MATCH (topic_socializing:Topic { name: 'socializing'} )
+CREATE (c)-[:hasTopic]->(topic_socializing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 79 } )
+MATCH (topic_localassembly:Topic { name: 'local assembly'} )
+CREATE (c)-[:hasTopic]->(topic_localassembly)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 79 } )
+MATCH (topic_assemblysite:Topic { name: 'assembly site'} )
+CREATE (c)-[:hasTopic]->(topic_assemblysite)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 79 } )
+MATCH (topic_travel:Topic { name: 'travel'} )
+CREATE (c)-[:hasTopic]->(topic_travel)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 88 } )
+MATCH (topic_travel:Topic { name: 'travel'} )
+CREATE (c)-[:hasTopic]->(topic_travel)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 56 } )
+MATCH (topic_administrativeunit:Topic { name: 'administrative unit'} )
+CREATE (c)-[:hasTopic]->(topic_administrativeunit)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 56 } )
+MATCH (topic_Power:Topic { name: 'Power'} )
+CREATE (c)-[:hasTopic]->(topic_Power)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 56 } )
+MATCH (topic_legalpower:Topic { name: 'legal power'} )
+CREATE (c)-[:hasTopic]->(topic_legalpower)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 56 } )
+MATCH (topic_meeting:Topic { name: 'meeting'} )
+CREATE (c)-[:hasTopic]->(topic_meeting)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 56 } )
+MATCH (topic_localassembly:Topic { name: 'local assembly'} )
+CREATE (c)-[:hasTopic]->(topic_localassembly)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_fish:Topic { name: 'fish'} )
+CREATE (c)-[:hasTopic]->(topic_fish)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_boat:Topic { name: 'boat'} )
+CREATE (c)-[:hasTopic]->(topic_boat)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_coastalocean:Topic { name: 'coastal ocean'} )
+CREATE (c)-[:hasTopic]->(topic_coastalocean)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_deepocean:Topic { name: 'deep ocean'} )
+CREATE (c)-[:hasTopic]->(topic_deepocean)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_beach:Topic { name: 'beach'} )
+CREATE (c)-[:hasTopic]->(topic_beach)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_Power:Topic { name: 'Power'} )
+CREATE (c)-[:hasTopic]->(topic_Power)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_weather:Topic { name: 'weather'} )
+CREATE (c)-[:hasTopic]->(topic_weather)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_fishing:Topic { name: 'fishing'} )
+CREATE (c)-[:hasTopic]->(topic_fishing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_exchange:Topic { name: 'exchange'} )
+CREATE (c)-[:hasTopic]->(topic_exchange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_resources:Topic { name: 'resources'} )
+CREATE (c)-[:hasTopic]->(topic_resources)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_travel:Topic { name: 'travel'} )
+CREATE (c)-[:hasTopic]->(topic_travel)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 59 } )
+MATCH (topic_exploration:Topic { name: 'exploration'} )
+CREATE (c)-[:hasTopic]->(topic_exploration)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_hauntedplace:Topic { name: 'haunted place'} )
+CREATE (c)-[:hasTopic]->(topic_hauntedplace)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_fish:Topic { name: 'fish'} )
+CREATE (c)-[:hasTopic]->(topic_fish)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_sharedspaces:Topic { name: 'shared spaces'} )
+CREATE (c)-[:hasTopic]->(topic_sharedspaces)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_unmanagedlandscapearea:Topic { name: 'unmanaged landscape area'} )
+CREATE (c)-[:hasTopic]->(topic_unmanagedlandscapearea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_avian:Topic { name: 'avian'} )
+CREATE (c)-[:hasTopic]->(topic_avian)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_moorland:Topic { name: 'moorland'} )
+CREATE (c)-[:hasTopic]->(topic_moorland)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_heathland:Topic { name: 'heathland'} )
+CREATE (c)-[:hasTopic]->(topic_heathland)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_plants:Topic { name: 'plants'} )
+CREATE (c)-[:hasTopic]->(topic_plants)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_folktale:Topic { name: 'folk tale'} )
+CREATE (c)-[:hasTopic]->(topic_folktale)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_fishing:Topic { name: 'fishing'} )
+CREATE (c)-[:hasTopic]->(topic_fishing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_gathering:Topic { name: 'gathering'} )
+CREATE (c)-[:hasTopic]->(topic_gathering)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_wildanimal:Topic { name: 'wild animal'} )
+CREATE (c)-[:hasTopic]->(topic_wildanimal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_seasonality:Topic { name: 'seasonality'} )
+CREATE (c)-[:hasTopic]->(topic_seasonality)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_managedpeatland:Topic { name: 'managed peatland'} )
+CREATE (c)-[:hasTopic]->(topic_managedpeatland)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_unmanagedpeatland:Topic { name: 'unmanaged peatland'} )
+CREATE (c)-[:hasTopic]->(topic_unmanagedpeatland)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_Wetlandsandmarshes:Topic { name: 'Wetlands and marshes'} )
+CREATE (c)-[:hasTopic]->(topic_Wetlandsandmarshes)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_Heathlandandmoorland:Topic { name: 'Heathland and moorland'} )
+CREATE (c)-[:hasTopic]->(topic_Heathlandandmoorland)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_saltyareas:Topic { name: 'salty areas'} )
+CREATE (c)-[:hasTopic]->(topic_saltyareas)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 83 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 52 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 52 } )
+MATCH (topic_whale/dolphin:Topic { name: 'whale / dolphin'} )
+CREATE (c)-[:hasTopic]->(topic_whale/dolphin)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 52 } )
+MATCH (topic_sea:Topic { name: 'sea'} )
+CREATE (c)-[:hasTopic]->(topic_sea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 52 } )
+MATCH (topic_fishing:Topic { name: 'fishing'} )
+CREATE (c)-[:hasTopic]->(topic_fishing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 52 } )
+MATCH (topic_Aquatics:Topic { name: 'Aquatics'} )
+CREATE (c)-[:hasTopic]->(topic_Aquatics)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 52 } )
+MATCH (topic_resources:Topic { name: 'resources'} )
+CREATE (c)-[:hasTopic]->(topic_resources)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 118 } )
+MATCH (topic_managedforest:Topic { name: 'managed forest'} )
+CREATE (c)-[:hasTopic]->(topic_managedforest)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 118 } )
+MATCH (topic_woodlandmanagement:Topic { name: 'woodland management'} )
+CREATE (c)-[:hasTopic]->(topic_woodlandmanagement)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 118 } )
+MATCH (topic_exchange:Topic { name: 'exchange'} )
+CREATE (c)-[:hasTopic]->(topic_exchange)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 70 } )
+MATCH (topic_coastalocean:Topic { name: 'coastal ocean'} )
+CREATE (c)-[:hasTopic]->(topic_coastalocean)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 70 } )
+MATCH (topic_beach:Topic { name: 'beach'} )
+CREATE (c)-[:hasTopic]->(topic_beach)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 70 } )
+MATCH (topic_whale/dolphin:Topic { name: 'whale / dolphin'} )
+CREATE (c)-[:hasTopic]->(topic_whale/dolphin)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 70 } )
+MATCH (topic_gathering:Topic { name: 'gathering'} )
+CREATE (c)-[:hasTopic]->(topic_gathering)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 70 } )
+MATCH (topic_consumption:Topic { name: 'consumption'} )
+CREATE (c)-[:hasTopic]->(topic_consumption)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 65 } )
+MATCH (topic_builtenvironment:Topic { name: 'built environment'} )
+CREATE (c)-[:hasTopic]->(topic_builtenvironment)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 65 } )
+MATCH (topic_farm:Topic { name: 'farm'} )
+CREATE (c)-[:hasTopic]->(topic_farm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 65 } )
+MATCH (topic_landscapechange:Topic { name: 'landscape change'} )
+CREATE (c)-[:hasTopic]->(topic_landscapechange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 65 } )
+MATCH (topic_landdegredation:Topic { name: 'land degredation'} )
+CREATE (c)-[:hasTopic]->(topic_landdegredation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 65 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 67 } )
+MATCH (topic_churchfarm:Topic { name: 'church farm'} )
+CREATE (c)-[:hasTopic]->(topic_churchfarm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 67 } )
+MATCH (topic_EcclesiasticalPower:Topic { name: 'Ecclesiastical Power'} )
+CREATE (c)-[:hasTopic]->(topic_EcclesiasticalPower)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 67 } )
+MATCH (topic_bishop'schurch:Topic { name: 'bishop's church'} )
+CREATE (c)-[:hasTopic]->(topic_bishop'schurch)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 67 } )
+MATCH (topic_placeofworship:Topic { name: 'place of worship'} )
+CREATE (c)-[:hasTopic]->(topic_placeofworship)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 67 } )
+MATCH (topic_religiousgroup:Topic { name: 'religious group'} )
+CREATE (c)-[:hasTopic]->(topic_religiousgroup)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 72 } )
+MATCH (topic_HistoricalChronology:Topic { name: 'Historical Chronology'} )
+CREATE (c)-[:hasTopic]->(topic_HistoricalChronology)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 72 } )
+MATCH (topic_exploration:Topic { name: 'exploration'} )
+CREATE (c)-[:hasTopic]->(topic_exploration)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 66 } )
+MATCH (topic_territory:Topic { name: 'territory'} )
+CREATE (c)-[:hasTopic]->(topic_territory)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 66 } )
+MATCH (topic_EcclesiasticalPower:Topic { name: 'Ecclesiastical Power'} )
+CREATE (c)-[:hasTopic]->(topic_EcclesiasticalPower)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 86 } )
+MATCH (topic_farm:Topic { name: 'farm'} )
+CREATE (c)-[:hasTopic]->(topic_farm)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 82 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 82 } )
+MATCH (topic_domesticanimal:Topic { name: 'domestic animal'} )
+CREATE (c)-[:hasTopic]->(topic_domesticanimal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 82 } )
+MATCH (topic_FinancialObligation:Topic { name: 'Financial Obligation'} )
+CREATE (c)-[:hasTopic]->(topic_FinancialObligation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 82 } )
+MATCH (topic_improvedland:Topic { name: 'improved land'} )
+CREATE (c)-[:hasTopic]->(topic_improvedland)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 82 } )
+MATCH (topic_tithe:Topic { name: 'tithe'} )
+CREATE (c)-[:hasTopic]->(topic_tithe)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 82 } )
+MATCH (topic_resources:Topic { name: 'resources'} )
+CREATE (c)-[:hasTopic]->(topic_resources)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 68 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 68 } )
+MATCH (topic_domesticanimal:Topic { name: 'domestic animal'} )
+CREATE (c)-[:hasTopic]->(topic_domesticanimal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 68 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 71 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 71 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 150 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 150 } )
+MATCH (topic_gender:Topic { name: 'gender'} )
+CREATE (c)-[:hasTopic]->(topic_gender)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 151 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 151 } )
+MATCH (topic_building:Topic { name: 'building'} )
+CREATE (c)-[:hasTopic]->(topic_building)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 151 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 151 } )
+MATCH (topic_socializing:Topic { name: 'socializing'} )
+CREATE (c)-[:hasTopic]->(topic_socializing)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 152 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 152 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 152 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 152 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 121 } )
+MATCH (topic_plants:Topic { name: 'plants'} )
+CREATE (c)-[:hasTopic]->(topic_plants)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 121 } )
+MATCH (topic_foodpreparation:Topic { name: 'food preparation'} )
+CREATE (c)-[:hasTopic]->(topic_foodpreparation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 121 } )
+MATCH (topic_resources:Topic { name: 'resources'} )
+CREATE (c)-[:hasTopic]->(topic_resources)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 121 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 148 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 148 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 145 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 145 } )
+MATCH (topic_sheep:Topic { name: 'sheep'} )
+CREATE (c)-[:hasTopic]->(topic_sheep)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 145 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 145 } )
+MATCH (topic_bone:Topic { name: 'bone'} )
+CREATE (c)-[:hasTopic]->(topic_bone)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 145 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 145 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 142 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 142 } )
+MATCH (topic_metalvessel:Topic { name: 'metal vessel'} )
+CREATE (c)-[:hasTopic]->(topic_metalvessel)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 142 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 143 } )
+MATCH (topic_ceramicvessel:Topic { name: 'ceramic vessel'} )
+CREATE (c)-[:hasTopic]->(topic_ceramicvessel)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 143 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 147 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 147 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 141 } )
+MATCH (topic_wool:Topic { name: 'wool'} )
+CREATE (c)-[:hasTopic]->(topic_wool)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 141 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 141 } )
+MATCH (topic_sheep:Topic { name: 'sheep'} )
+CREATE (c)-[:hasTopic]->(topic_sheep)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 141 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 141 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 141 } )
+MATCH (topic_shearing:Topic { name: 'shearing'} )
+CREATE (c)-[:hasTopic]->(topic_shearing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 141 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 120 } )
+MATCH (topic_wool:Topic { name: 'wool'} )
+CREATE (c)-[:hasTopic]->(topic_wool)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 120 } )
+MATCH (topic_sheep:Topic { name: 'sheep'} )
+CREATE (c)-[:hasTopic]->(topic_sheep)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 120 } )
+MATCH (topic_shearing:Topic { name: 'shearing'} )
+CREATE (c)-[:hasTopic]->(topic_shearing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 120 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 146 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 146 } )
+MATCH (topic_avian:Topic { name: 'avian'} )
+CREATE (c)-[:hasTopic]->(topic_avian)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 146 } )
+MATCH (topic_butchery:Topic { name: 'butchery'} )
+CREATE (c)-[:hasTopic]->(topic_butchery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 146 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 124 } )
+MATCH (topic_Power:Topic { name: 'Power'} )
+CREATE (c)-[:hasTopic]->(topic_Power)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 124 } )
+MATCH (topic_deadhuman:Topic { name: 'dead human'} )
+CREATE (c)-[:hasTopic]->(topic_deadhuman)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 124 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 131 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 131 } )
+MATCH (topic_socializing:Topic { name: 'socializing'} )
+CREATE (c)-[:hasTopic]->(topic_socializing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 131 } )
+MATCH (topic_meeting:Topic { name: 'meeting'} )
+CREATE (c)-[:hasTopic]->(topic_meeting)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 133 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 133 } )
+MATCH (topic_saganarrative:Topic { name: 'saga narrative'} )
+CREATE (c)-[:hasTopic]->(topic_saganarrative)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 128 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 128 } )
+MATCH (topic_Power:Topic { name: 'Power'} )
+CREATE (c)-[:hasTopic]->(topic_Power)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 128 } )
+MATCH (topic_EcclesiasticalPower:Topic { name: 'Ecclesiastical Power'} )
+CREATE (c)-[:hasTopic]->(topic_EcclesiasticalPower)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 128 } )
+MATCH (topic_stories:Topic { name: 'stories'} )
+CREATE (c)-[:hasTopic]->(topic_stories)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 128 } )
+MATCH (topic_writtenwork:Topic { name: 'written work'} )
+CREATE (c)-[:hasTopic]->(topic_writtenwork)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 128 } )
+MATCH (topic_recording:Topic { name: 'recording'} )
+CREATE (c)-[:hasTopic]->(topic_recording)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 129 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 129 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 129 } )
+MATCH (topic_grasses:Topic { name: 'grasses'} )
+CREATE (c)-[:hasTopic]->(topic_grasses)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 129 } )
+MATCH (topic_cultivation/farming:Topic { name: 'cultivation / farming'} )
+CREATE (c)-[:hasTopic]->(topic_cultivation/farming)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 135 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 135 } )
+MATCH (topic_middenassemblage:Topic { name: 'midden assemblage'} )
+CREATE (c)-[:hasTopic]->(topic_middenassemblage)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 135 } )
+MATCH (topic_consumption:Topic { name: 'consumption'} )
+CREATE (c)-[:hasTopic]->(topic_consumption)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 123 } )
+MATCH (topic_things:Topic { name: 'things'} )
+CREATE (c)-[:hasTopic]->(topic_things)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 123 } )
+MATCH (topic_resources:Topic { name: 'resources'} )
+CREATE (c)-[:hasTopic]->(topic_resources)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 123 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 119 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 149 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 149 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 132 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 132 } )
+MATCH (topic_cemetery:Topic { name: 'cemetery'} )
+CREATE (c)-[:hasTopic]->(topic_cemetery)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 132 } )
+MATCH (topic_interredobject:Topic { name: 'interred object'} )
+CREATE (c)-[:hasTopic]->(topic_interredobject)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 132 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 144 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 144 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_builtenvironment:Topic { name: 'built environment'} )
+CREATE (c)-[:hasTopic]->(topic_builtenvironment)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_building:Topic { name: 'building'} )
+CREATE (c)-[:hasTopic]->(topic_building)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_farm:Topic { name: 'farm'} )
+CREATE (c)-[:hasTopic]->(topic_farm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_independentfarm:Topic { name: 'independent farm'} )
+CREATE (c)-[:hasTopic]->(topic_independentfarm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_tenantfarm:Topic { name: 'tenant farm'} )
+CREATE (c)-[:hasTopic]->(topic_tenantfarm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_churchfarm:Topic { name: 'church farm'} )
+CREATE (c)-[:hasTopic]->(topic_churchfarm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_family:Topic { name: 'family'} )
+CREATE (c)-[:hasTopic]->(topic_family)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_socializing:Topic { name: 'socializing'} )
+CREATE (c)-[:hasTopic]->(topic_socializing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 136 } )
+MATCH (topic_communalbuilding:Topic { name: 'communal building'} )
+CREATE (c)-[:hasTopic]->(topic_communalbuilding)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 122 } )
+MATCH (topic_fish:Topic { name: 'fish'} )
+CREATE (c)-[:hasTopic]->(topic_fish)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 122 } )
+MATCH (topic_port:Topic { name: 'port'} )
+CREATE (c)-[:hasTopic]->(topic_port)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 122 } )
+MATCH (topic_stillwater:Topic { name: 'still water'} )
+CREATE (c)-[:hasTopic]->(topic_stillwater)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 122 } )
+MATCH (topic_sea:Topic { name: 'sea'} )
+CREATE (c)-[:hasTopic]->(topic_sea)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 122 } )
+MATCH (topic_fishing:Topic { name: 'fishing'} )
+CREATE (c)-[:hasTopic]->(topic_fishing)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 122 } )
+MATCH (topic_Aquatics:Topic { name: 'Aquatics'} )
+CREATE (c)-[:hasTopic]->(topic_Aquatics)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 139 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 139 } )
+MATCH (topic_horse:Topic { name: 'horse'} )
+CREATE (c)-[:hasTopic]->(topic_horse)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 139 } )
+MATCH (topic_interredanimal:Topic { name: 'interred animal'} )
+CREATE (c)-[:hasTopic]->(topic_interredanimal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 139 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 125 } )
+MATCH (topic_animal:Topic { name: 'animal'} )
+CREATE (c)-[:hasTopic]->(topic_animal)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 125 } )
+MATCH (topic_horse:Topic { name: 'horse'} )
+CREATE (c)-[:hasTopic]->(topic_horse)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 125 } )
+MATCH (topic_animalhusbandry:Topic { name: 'animal husbandry'} )
+CREATE (c)-[:hasTopic]->(topic_animalhusbandry)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 125 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 140 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 140 } )
+MATCH (topic_wood:Topic { name: 'wood'} )
+CREATE (c)-[:hasTopic]->(topic_wood)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 140 } )
+MATCH (topic_woodlandmanagement:Topic { name: 'woodland management'} )
+CREATE (c)-[:hasTopic]->(topic_woodlandmanagement)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 140 } )
+MATCH (topic_Woodandtrees:Topic { name: 'Wood and trees'} )
+CREATE (c)-[:hasTopic]->(topic_Woodandtrees)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 140 } )
+MATCH (topic_production:Topic { name: 'production'} )
+CREATE (c)-[:hasTopic]->(topic_production)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 134 } )
+MATCH (topic_churchfarm:Topic { name: 'church farm'} )
+CREATE (c)-[:hasTopic]->(topic_churchfarm)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 134 } )
+MATCH (topic_EcclesiasticalPower:Topic { name: 'Ecclesiastical Power'} )
+CREATE (c)-[:hasTopic]->(topic_EcclesiasticalPower)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 134 } )
+MATCH (topic_wholechurch:Topic { name: 'whole church'} )
+CREATE (c)-[:hasTopic]->(topic_wholechurch)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 134 } )
+MATCH (topic_halfchurch:Topic { name: 'half church'} )
+CREATE (c)-[:hasTopic]->(topic_halfchurch)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 134 } )
+MATCH (topic_bishop'schurch:Topic { name: 'bishop's church'} )
+CREATE (c)-[:hasTopic]->(topic_bishop'schurch)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 130 } )
+MATCH (topic_humans:Topic { name: 'humans'} )
+CREATE (c)-[:hasTopic]->(topic_humans)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 130 } )
+MATCH (topic_foodpreparation:Topic { name: 'food preparation'} )
+CREATE (c)-[:hasTopic]->(topic_foodpreparation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 130 } )
+MATCH (topic_consumption:Topic { name: 'consumption'} )
+CREATE (c)-[:hasTopic]->(topic_consumption)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 130 } )
+MATCH (topic_health:Topic { name: 'health'} )
+CREATE (c)-[:hasTopic]->(topic_health)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 130 } )
+MATCH (topic_food:Topic { name: 'food'} )
+CREATE (c)-[:hasTopic]->(topic_food)
+WITH true as pass
+
+
+MATCH (c:Combinator { comb_id: 51 } )
+MATCH (topic_boat:Topic { name: 'boat'} )
+CREATE (c)-[:hasTopic]->(topic_boat)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 51 } )
+MATCH (topic_sea:Topic { name: 'sea'} )
+CREATE (c)-[:hasTopic]->(topic_sea)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 87 } )
+MATCH (topic_travel:Topic { name: 'travel'} )
+CREATE (c)-[:hasTopic]->(topic_travel)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 49 } )
+MATCH (topic_barn:Topic { name: 'barn'} )
+CREATE (c)-[:hasTopic]->(topic_barn)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 55 } )
+MATCH (topic_tephrachronology:Topic { name: 'tephrachronology'} )
+CREATE (c)-[:hasTopic]->(topic_tephrachronology)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_modeledclimaticsystems:Topic { name: 'modeled climatic systems'} )
+CREATE (c)-[:hasTopic]->(topic_modeledclimaticsystems)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_naturalchange:Topic { name: 'natural change'} )
+CREATE (c)-[:hasTopic]->(topic_naturalchange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_precipitation:Topic { name: 'precipitation'} )
+CREATE (c)-[:hasTopic]->(topic_precipitation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_temperature:Topic { name: 'temperature'} )
+CREATE (c)-[:hasTopic]->(topic_temperature)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_storminess:Topic { name: 'storminess'} )
+CREATE (c)-[:hasTopic]->(topic_storminess)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_tephrachronology:Topic { name: 'tephrachronology'} )
+CREATE (c)-[:hasTopic]->(topic_tephrachronology)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_HistoricalChronology:Topic { name: 'Historical Chronology'} )
+CREATE (c)-[:hasTopic]->(topic_HistoricalChronology)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_seaice:Topic { name: 'sea ice'} )
+CREATE (c)-[:hasTopic]->(topic_seaice)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_LittleIceAge:Topic { name: 'Little Ice Age'} )
+CREATE (c)-[:hasTopic]->(topic_LittleIceAge)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 76 } )
+MATCH (topic_glacier:Topic { name: 'glacier'} )
+CREATE (c)-[:hasTopic]->(topic_glacier)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_building:Topic { name: 'building'} )
+CREATE (c)-[:hasTopic]->(topic_building)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_erosion:Topic { name: 'erosion'} )
+CREATE (c)-[:hasTopic]->(topic_erosion)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_landdegredation:Topic { name: 'land degredation'} )
+CREATE (c)-[:hasTopic]->(topic_landdegredation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_humaninducedchange:Topic { name: 'human induced change'} )
+CREATE (c)-[:hasTopic]->(topic_humaninducedchange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_soilaccumulation:Topic { name: 'soil accumulation'} )
+CREATE (c)-[:hasTopic]->(topic_soilaccumulation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_charcoalpit:Topic { name: 'charcoal pit'} )
+CREATE (c)-[:hasTopic]->(topic_charcoalpit)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_tephra:Topic { name: 'tephra'} )
+CREATE (c)-[:hasTopic]->(topic_tephra)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_tephrachronology:Topic { name: 'tephrachronology'} )
+CREATE (c)-[:hasTopic]->(topic_tephrachronology)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 54 } )
+MATCH (topic_burial:Topic { name: 'burial'} )
+CREATE (c)-[:hasTopic]->(topic_burial)
+WITH true as pass
+
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_agriculturallandscape:Topic { name: 'agricultural landscape'} )
+CREATE (c)-[:hasTopic]->(topic_agriculturallandscape)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_landscapechange:Topic { name: 'landscape change'} )
+CREATE (c)-[:hasTopic]->(topic_landscapechange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_erosion:Topic { name: 'erosion'} )
+CREATE (c)-[:hasTopic]->(topic_erosion)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_landdegredation:Topic { name: 'land degredation'} )
+CREATE (c)-[:hasTopic]->(topic_landdegredation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_humaninducedchange:Topic { name: 'human induced change'} )
+CREATE (c)-[:hasTopic]->(topic_humaninducedchange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_soilaccumulation:Topic { name: 'soil accumulation'} )
+CREATE (c)-[:hasTopic]->(topic_soilaccumulation)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_naturalchange:Topic { name: 'natural change'} )
+CREATE (c)-[:hasTopic]->(topic_naturalchange)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_slopestability:Topic { name: 'slope stability'} )
+CREATE (c)-[:hasTopic]->(topic_slopestability)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_woodlanddecline:Topic { name: 'woodland decline'} )
+CREATE (c)-[:hasTopic]->(topic_woodlanddecline)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_volcanicactivity:Topic { name: 'volcanic activity'} )
+CREATE (c)-[:hasTopic]->(topic_volcanicactivity)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_tephrachronology:Topic { name: 'tephrachronology'} )
+CREATE (c)-[:hasTopic]->(topic_tephrachronology)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_HistoricalChronology:Topic { name: 'Historical Chronology'} )
+CREATE (c)-[:hasTopic]->(topic_HistoricalChronology)
+WITH true as pass
+MATCH (c:Combinator { comb_id: 53 } )
+MATCH (topic_charcoalpits:Topic { name: 'charcoal pits'} )
+CREATE (c)-[:hasTopic]->(topic_charcoalpits)
+WITH true as pass
+

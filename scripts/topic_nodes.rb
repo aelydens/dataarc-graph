@@ -37,8 +37,6 @@ end
 
 nodes = build_topic_nodes(concept_file)
 
-# puts nodes.select { |n| n.name == "Historical Chronology"}
-
 def camelize(string)
   string.split(' ').map(&:capitalize).join
 end
@@ -55,8 +53,9 @@ end
 cypher_relationships = []
 nodes.each do |node|
   node.instance_of&.each do |instance_id|
-    cmd = "MATCH (a:Topic),(b:Topic) WHERE a.topicId = '#{strip_dashes(node.id)}' AND b.topicId = '#{strip_dashes(instance_id)}' CREATE (a)-[r:instanceOf]->(b)"
-    cypher_relationships << cmd
+    cypher_relationships << "MATCH (a:Topic {topicId: '#{strip_dashes(node.id)}'} )"
+    cypher_relationships << "MATCH (b:Topic {topicId: '#{strip_dashes(instance_id)}'} )"
+    cypher_relationships << "CREATE (a)-[:instanceOf]->(b)"
     cypher_relationships << "WITH true as pass"
   end
 end
@@ -65,5 +64,4 @@ puts cypher_cmds
 cypher_relationships.pop
 
 File.open("#{__dir__}/cypher_commands.txt", 'w') { |file| file.puts(cypher_cmds) }
-
 File.open("#{__dir__}/cypher_rels.txt", 'w') { |file| file.puts(cypher_relationships) }
